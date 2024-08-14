@@ -3,6 +3,7 @@ import { BtechSem1 } from "@/utils/model/model";
 import { NextRequest, NextResponse } from "next/server";
 import { daysArray } from "../update-time-table/parseTimeTable";
 import { ObjectId } from "mongoose";
+import { modelMap, ModelMapKeysType } from "@/utils/model/mapper";
 
 // Define the dayType first, independent of parsedData
 type dayType = "Mon" | "Tue" | "Wed" | "Thu" | "Fri" | "Sat";
@@ -23,6 +24,12 @@ export async function POST(req: NextRequest) {
     Sat: [],
   };
 
+  const Model = modelMap[course as ModelMapKeysType];
+  console.log(Model);
+
+  if (!Model)
+    return NextResponse.json({ message: "Model not defined" }, { status: 500 });
+
   try {
     const data: {
       _id: ObjectId;
@@ -30,7 +37,9 @@ export async function POST(req: NextRequest) {
       time: string;
       data: string[];
       __v: number;
-    }[] = await BtechSem1.find({ day: { $in: daysArray } });
+    }[] = await Model.find({
+      day: { $in: daysArray },
+    });
 
     console.log(data);
 
