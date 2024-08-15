@@ -6,7 +6,7 @@ import { ObjectId } from "mongoose";
 import { modelMap, ModelMapKeysType } from "@/utils/model/mapper";
 
 // Define the dayType first, independent of parsedData
-type dayType = "Mon" | "Tue" | "Wed" | "Thu" | "Fri" | "Sat";
+export type dayType = "Mon" | "Tue" | "Wed" | "Thu" | "Fri" | "Sat";
 
 export async function POST(req: NextRequest) {
   const { batch, course } = await req.json();

@@ -16,6 +16,7 @@ export async function GET() {
   try {
     // Using for...of to handle async operations
     // await ParseTimeTable(6);
+    //TODO: can be done using ordinary for loop
     for (const [key, Model] of Object.entries(modelMap)) {
       await Model.deleteMany();
       const data = await ParseTimeTable(keyToSheetIndex[key]);

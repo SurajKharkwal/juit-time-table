@@ -2,10 +2,10 @@
 import axios from "axios";
 import { useQuery } from "@tanstack/react-query";
 import { useRouter } from "next/navigation";
-import TimeTableUI from "@/components/time-table/TimeTableUI";
 import SmallTimeTableUI from "@/components/time-table/SmallTimeTableUI";
 import { Spinner } from "@nextui-org/spinner";
 import { setCookie } from 'cookies-next'
+import TimeTableUI from "@/components/time-table/TimeTableUI";
 
 const Page = ({
     searchParams,

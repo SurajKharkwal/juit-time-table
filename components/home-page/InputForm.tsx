@@ -42,7 +42,7 @@ export default function InputForm() {
 
         const encodedBatch = encodeURI(batch);
         const encodedCourse = encodeURI(course);
-        router.push(`/timetable?batch=${encodedBatch}&course=${encodedCourse}`);
+        router.push(`/beta-timetable?batch=${encodedBatch}&course=${encodedCourse}`);
     };
 
     return (
