@@ -4,7 +4,7 @@ import ExcelJS from "exceljs";
 
 export const daysArray = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
 
-const ColumnTimeMapper = {
+export const ColumnTimeMapper = {
   B: "9:00 AM - 9:55 AM",
   C: "10:00 AM - 10:55 AM",
   D: "11:00 AM - 11:55 AM",
@@ -71,7 +71,8 @@ export async function ParseTimeTable(sheetNumber: number) {
           row <= 3 + 15 * (dayIndex + 1) + dayIndex;
           row++
         ) {
-          const cellValue = worksheet.getCell(`${col}${row}`).text; // Assuming text value; adjust if necessary
+          let cellValue = worksheet.getCell(`${col}${row}`).text; // Assuming text value; adjust if necessary
+          cellValue = cellValue.replace(/\s+/g, " ").trim();
           if (cellValue) {
             entry.data.push(cellValue);
           }

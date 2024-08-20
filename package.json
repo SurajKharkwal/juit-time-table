@@ -15,6 +15,7 @@
     "@nextui-org/dropdown": "^2.1.27",
     "@nextui-org/input": "2.2.3",
     "@nextui-org/select": "^2.2.5",
+    "@nextui-org/skeleton": "^2.0.31",
     "@nextui-org/spinner": "^2.0.31",
     "@nextui-org/system": "2.2.1",
     "@nextui-org/table": "^2.0.37",

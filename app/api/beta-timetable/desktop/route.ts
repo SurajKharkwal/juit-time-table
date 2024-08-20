@@ -1,7 +1,7 @@
 import connectMongo from "@/utils/connectDb";
 import { BtechSem1 } from "@/utils/model/model";
 import { NextRequest, NextResponse } from "next/server";
-import { daysArray } from "../update-time-table/parseTimeTable";
+import { daysArray } from "../update/parseTimeTable";
 import { ObjectId } from "mongoose";
 import { modelMap, ModelMapKeysType } from "@/utils/model/mapper";
 
@@ -10,9 +10,9 @@ export type dayType = "Mon" | "Tue" | "Wed" | "Thu" | "Fri" | "Sat";
 
 export async function POST(req: NextRequest) {
   const { batch, course } = await req.json();
-  console.log(batch, course);
 
   await connectMongo();
+  console.log(batch, course);
 
   // Now use the dayType to define the parsedData structure
   const parsedData: Record<dayType, string[]> = {

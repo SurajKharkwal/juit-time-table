@@ -1,4 +1,4 @@
-import { dayType } from "@/app/api/get-timetable/route";
+import { dayType } from "@/app/api/beta-timetable/desktop/route";
 import {
   Table,
   TableBody,
