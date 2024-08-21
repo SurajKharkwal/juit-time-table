@@ -20,7 +20,8 @@ const modelMap: ModelMap = {
   "BTECH 5 SEM": BtechSem5,
   "BTECH 7 SEM": BtechSem7,
 };
-
 type ModelMapKeysType = keyof typeof modelMap;
+
+export const BatchesArray = Object.keys(modelMap);
 
 export { modelMap, type ModelMapKeysType };

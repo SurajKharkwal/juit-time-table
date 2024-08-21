@@ -1,7 +1,7 @@
 import { NextResponse } from "next/server";
-import connectMongo from "@/utils/connectDb";
 import { modelMap } from "@/utils/model/mapper";
 import { ParseTimeTable } from "./parseTimeTable";
+import connectMongo from "@/utils/connectDb";
 
 const keyToSheetIndex: { [key: string]: number } = {
   "BTECH 1 SEM": 1, // Replace 0 with the actual sheet number for BTECH 1 SEM

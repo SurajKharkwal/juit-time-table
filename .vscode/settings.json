@@ -1,4 +1,3 @@
 {
-  "typescript.tsdk": "node_modules/typescript/lib",
-  "cSpell.words": ["Btech"]
+  "typescript.tsdk": "node_modules/typescript/lib"
 }

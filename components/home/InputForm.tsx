@@ -42,9 +42,14 @@ export default function InputForm() {
 
     const encodedBatch = encodeURI(batch);
     const encodedCourse = encodeURI(course);
-    router.push(
-      `/beta-timetable/mobile?batch=${encodedBatch}&course=${encodedCourse}`
-    );
+    if (window.innerWidth > 500)
+      router.push(
+        `/timetable/desktop?batch=${encodedBatch}&course=${encodedCourse}`
+      );
+    else
+      router.push(
+        `/timetable/mobile?batch=${encodedBatch}&course=${encodedCourse}`
+      );
   };
 
   return (

@@ -1,5 +1,4 @@
 import connectMongo from "@/utils/connectDb";
-import { BtechSem1 } from "@/utils/model/model";
 import { NextRequest, NextResponse } from "next/server";
 import { daysArray } from "../update/parseTimeTable";
 import { ObjectId } from "mongoose";
@@ -69,10 +68,7 @@ export async function POST(req: NextRequest) {
       // Only push an empty string if no matching timings were found
     });
 
-    return NextResponse.json({
-      message: "Here is the data",
-      parsedData,
-    });
+    return NextResponse.json(parsedData, {status: 200});
   } catch (error) {
     console.error("Error finding data:", error);
     return NextResponse.json(

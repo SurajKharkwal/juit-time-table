@@ -14,7 +14,10 @@ export const ColumnTimeMapper = {
   H: "3:00 PM - 3:55 PM",
   I: "4:00 PM - 4:55 PM",
   J: "5:00 PM - 5:55 PM",
+
 };
+
+export const LabelForLoading = Object.values(ColumnTimeMapper);
 
 type TimetableEntry = {
   day: string;

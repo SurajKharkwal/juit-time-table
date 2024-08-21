@@ -1,12 +1,11 @@
-import ErrorHeader from "@/components/home-page/ErrorHeader";
-import InputForm from "@/components/home-page/InputForm";
+import ErrorToast from "@/components/home/ErrorHeader";
+import InputForm from "@/components/home/InputForm";
 
 export default async function Home() {
-    return (
-        <div className="flex flex-col">
-            <ErrorHeader />
-            <InputForm />
-        </div>
-    )
-
+  return (
+    <div className="flex flex-col">
+      <ErrorToast />
+      <InputForm />
+    </div>
+  );
 }

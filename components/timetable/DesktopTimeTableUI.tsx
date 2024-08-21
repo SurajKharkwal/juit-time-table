@@ -1,4 +1,4 @@
-import { dayType } from "@/app/api/beta-timetable/desktop/route";
+import { dayType } from "@/app/api/desktop/route";
 import {
   Table,
   TableBody,
@@ -32,7 +32,7 @@ export default function TimeTableUI({
   return (
     <Table
       aria-label="Juit-timetable"
-      className="max-w-[120rem] w-full mx-auto"
+      className="max-w-[120rem] custom-scrollbar w-full mx-auto"
     >
       <TableHeader>
         {ColumnTimeMapper.map((element) => (

@@ -1,12 +1,7 @@
 "use client";
-
-import { timeTable } from "@/utils/time-table";
 import { Select, SelectItem } from "@nextui-org/select";
 import { ErrorType } from "./InputForm";
-
-type SelectType = {
-  label: string;
-};
+import { BatchesArray } from "@/utils/model/mapper";
 
 interface AutoCompleteProps {
   setCourse: (value: string) => void;
@@ -14,14 +9,7 @@ interface AutoCompleteProps {
 }
 
 export default function SelectBatch({ setCourse, error }: AutoCompleteProps) {
-  const output = Object.keys(timeTable);
-  const sheetNames: SelectType[] = [];
-  output.forEach((element) => {
-    sheetNames.push({
-      label: element,
-    });
-  });
-
+  const Batches = ["BTECH 1 SEM", "BTECH 3 SEM", "BTECH 5 SEM", "BTECH 7 SEM"];
   return (
     <Select
       className="w-[350px]"
@@ -36,9 +24,9 @@ export default function SelectBatch({ setCourse, error }: AutoCompleteProps) {
       }
       label="Select Course"
     >
-      {sheetNames.map((element: SelectType) => (
-        <SelectItem key={element.label} value={element.label}>
-          {element.label}
+      {Batches.map((element) => (
+        <SelectItem key={element} value={element}>
+          {element}
         </SelectItem>
       ))}
     </Select>
