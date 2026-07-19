@@ -1,0 +1,397 @@
+[
+  {
+    "day": 0,
+    "time": 0,
+    "data": [
+      "L-14B1WBT741 23E11 (TYN) CR12",
+      "P-18B1WCI772   CS-IT[PCC,PAI]E4_23A14 (RIV) ALAB1",
+      "L- 25B1WCI740   CSAIML_PE[23I11,23I12] (SKS) CR16",
+      "P-18B1WCI772   CS-IT[PCC,PAI]E4_23C11,23F11 (MSI) ALAB2",
+      "L- 25B1WCI741   CS[23K11] (RMS) TR5"
+    ]
+  },
+  {
+    "day": 0,
+    "time": 1,
+    "data": [
+      "P-18B1WCI772   CS-IT[PCC,PAI]E4_23A14 (RIV) ALAB1",
+      "P-18B1WCI772   CS-IT[PCC,PAI]E4_23C11,23F11 (MSI) ALAB2"
+    ]
+  },
+  {
+    "day": 0,
+    "time": 2,
+    "data": []
+  },
+  {
+    "day": 0,
+    "time": 3,
+    "data": [
+      "L-18B1WPH731  PMSALL_OE_E1 (RRS) CR05",
+      "L-24B1WHS732 HSS_ALL_OE_E1 (RTK,ASA) CR09",
+      "L-20B1WEC731  ECALL_OE_E1 (EMP) CR11",
+      "L-21B1WBT731 BIO_OE_E1 (UDB) CR02"
+    ]
+  },
+  {
+    "day": 0,
+    "time": 4,
+    "data": []
+  },
+  {
+    "day": 0,
+    "time": 5,
+    "data": [
+      "L-22B1WCE733  CEALL_OE_E2 (NJP) CR05",
+      "L-18B1WCI735  CSEALL_OE_E2 (RKI) CR01",
+      "L-20B1WEC734  ECEALL_OE_E2 (PDG) CR04"
+    ]
+  },
+  {
+    "day": 0,
+    "time": 6,
+    "data": [
+      "P-18B1WCI772   CS-IT[PCC,PAI]E4_23A13 (RIV) CL10",
+      "L-18B1WEC847/25B1WBI531 ECE_MINOR[23B11,23A11,23A14]24F11 (PRG) CR07",
+      "L-18B1WCE732 E5_23D11 (RRA) TR3",
+      "L-14B1WBT739   BIO[23E11,23F11] (UDB) CR16"
+    ]
+  },
+  {
+    "day": 0,
+    "time": 7,
+    "data": [
+      "P-18B1WCI772   CS-IT[PCC,PAI]E4_23A13 (RIV) CL10",
+      "L-18B1WBI731/18M1WBT133   BIO[23F11,26MT11] (TTS) CR18",
+      "L-18B1WEC850   EC_E5[23B11] (RKU) TR4"
+    ]
+  },
+  {
+    "day": 0,
+    "time": 8,
+    "data": []
+  },
+  {
+    "day": 1,
+    "time": 0,
+    "data": []
+  },
+  {
+    "day": 1,
+    "time": 1,
+    "data": [
+      "L-22B1WMA731 MAT_ALL_OE_E2 (RAD) CR05"
+    ]
+  },
+  {
+    "day": 1,
+    "time": 2,
+    "data": [
+      "P-18B1WCE771 E6_23D11 (ABJ) ENVLAB",
+      "P-18B1WCI772   CS-IT[PCC,PAI]E4_23C11 (SMA) CL1A"
+    ]
+  },
+  {
+    "day": 1,
+    "time": 3,
+    "data": [
+      "P-18B1WCE771 E6_23D11 (ABJ) ENVLAB",
+      "P-18B1WCI772   CS-IT[PCC,PAI]E4_23C11 (SMA) CL1A",
+      "L- 25B1WCI740   CSAIML_PE[23I11,23I12] (SKS) CR17",
+      "L- 25B1WCI741   CSAIDS_PE[23J11,23J12] (DGA) CR07",
+      "L- 25B1WCI741   CS[23K11] (RMS) TR5"
+    ]
+  },
+  {
+    "day": 1,
+    "time": 4,
+    "data": []
+  },
+  {
+    "day": 1,
+    "time": 5,
+    "data": [
+      "L-18B1WCI742   CS-IT[PCC,PAI]E4_B2 (SMA) LT2",
+      "L-18B1WCI742   CS-IT[PCC,PAI]E4_B4 (MSI) CR02",
+      "L-14B1WBT739   BIO[23E11,23F11] (UDB) CR16"
+    ]
+  },
+  {
+    "day": 1,
+    "time": 6,
+    "data": [
+      "P-18B1WCI772   CS-IT[PCC,PAI]E4_23A18 (VSG) ALAB1",
+      "L-18B1WBI731/18M1WBT133   BIO[23F11,26MT11] (TTS) CR11"
+    ]
+  },
+  {
+    "day": 1,
+    "time": 7,
+    "data": [
+      "P-18B1WCI772   CS-IT[PCC,PAI]E4_23A18 (VSG) ALAB1",
+      "L-14B1WBT741 23E11 (TYN) CR05",
+      "L-18B1WEC850   EC_E5[23B11] (RKU) TR4"
+    ]
+  },
+  {
+    "day": 1,
+    "time": 8,
+    "data": []
+  },
+  {
+    "day": 2,
+    "time": 0,
+    "data": [
+      "P-18B1WCE771 E6_23D11 (ABJ) ENVLAB"
+    ]
+  },
+  {
+    "day": 2,
+    "time": 1,
+    "data": [
+      "L-22B1WMA731 MAT_ALL_OE_E2 (RAD) CR05",
+      "L-20B1WEC734  ECEALL_OE_E2 (PDG) CR07",
+      "P-18B1WCE771 E6_23D11 (ABJ) ENVLAB"
+    ]
+  },
+  {
+    "day": 2,
+    "time": 2,
+    "data": [
+      "L-18B1WCE771 E6_23D11 (ABJ) CR15"
+    ]
+  },
+  {
+    "day": 2,
+    "time": 3,
+    "data": [
+      "L-14B1WBT741 23E11 (TYN) CR10",
+      "L-18B1WCE732 E5_23D11 (RRA) CR10",
+      "L-14B1WBT739   BIO[23E11,23F11] (UDB) CR16"
+    ]
+  },
+  {
+    "day": 2,
+    "time": 4,
+    "data": []
+  },
+  {
+    "day": 2,
+    "time": 5,
+    "data": [
+      "L-22B1WCE731  CEALL_OE_E1 (ABJ) CR11",
+      "L-24B1WHS732 HSS_ALL_OE_E1 (RTK,ASA) LT3",
+      "L-20B1WEC731  ECALL_OE_E1 (EMP) CR04"
+    ]
+  },
+  {
+    "day": 2,
+    "time": 6,
+    "data": [
+      "P-18B1WCI772   CS-IT[PCC,PAI]E4_23A11 (DSA) ALAB1",
+      "P-18B1WCI772   CS-IT[PCC,PAI]E4_23A12 (VSG) ALAB2"
+    ]
+  },
+  {
+    "day": 2,
+    "time": 7,
+    "data": [
+      "P-18B1WCI772   CS-IT[PCC,PAI]E4_23A11 (DSA) ALAB1",
+      "P-18B1WCI772   CS-IT[PCC,PAI]E4_23A12 (VSG) ALAB2"
+    ]
+  },
+  {
+    "day": 2,
+    "time": 8,
+    "data": []
+  },
+  {
+    "day": 3,
+    "time": 0,
+    "data": [
+      "L-18B1WCI742   CS-IT[PCC,PAI]E4_B1 (DSA) CR07",
+      "L-18B1WPH731  PMSALL_OE_E1 (RRS) CR07"
+    ]
+  },
+  {
+    "day": 3,
+    "time": 1,
+    "data": [
+      "L-18B1WCI742   CS-IT[PCC,PAI]E4_B1 (DSA) CR01"
+    ]
+  },
+  {
+    "day": 3,
+    "time": 2,
+    "data": [
+      "P-18B1WCI772   CS-IT[PCC,PAI]E4_23A15 (HRI) ALAB1",
+      "P-18B1WCI772   CS-IT[PCC,PAI]E4_23A16 (HRI) ALAB2"
+    ]
+  },
+  {
+    "day": 3,
+    "time": 3,
+    "data": [
+      "P-18B1WCI772   CS-IT[PCC,PAI]E4_23A15 (HRI) ALAB1",
+      "P-18B1WCI772   CS-IT[PCC,PAI]E4_23A16 (HRI) ALAB2",
+      "L-18B1WCI742   CS-IT[PCC,PAI]E4_B3 (RIV) CR02"
+    ]
+  },
+  {
+    "day": 3,
+    "time": 4,
+    "data": []
+  },
+  {
+    "day": 3,
+    "time": 5,
+    "data": [
+      "L-18B1WCI742   CS-IT[PCC,PAI]E4_B2 (SMA) CR07"
+    ]
+  },
+  {
+    "day": 3,
+    "time": 6,
+    "data": []
+  },
+  {
+    "day": 3,
+    "time": 7,
+    "data": [
+      "L-22B1WPH731  PMSALL_OE_E2 (SBA) CR08",
+      "L-22B1WCE731  CEALL_OE_E1 (ABJ) CR04"
+    ]
+  },
+  {
+    "day": 3,
+    "time": 8,
+    "data": []
+  },
+  {
+    "day": 4,
+    "time": 0,
+    "data": [
+      "L-24B1WHS732 HSS_ALL_OE_E1 (RTK,ASA) CR05"
+    ]
+  },
+  {
+    "day": 4,
+    "time": 1,
+    "data": [
+      "L-18B1WCI742   CS-IT[PCC,PAI]E4_B3 (RIV) CR04",
+      "L-18B1WBT734 BIO_D4[23E11,23F11] (HSD) TR7"
+    ]
+  },
+  {
+    "day": 4,
+    "time": 2,
+    "data": []
+  },
+  {
+    "day": 4,
+    "time": 3,
+    "data": [
+      "L-21B1WBT731 BIO_OE_E1 (UDB) CR02",
+      "L-20B1WEC731  ECALL_OE_E1 (EMP) CR10"
+    ]
+  },
+  {
+    "day": 4,
+    "time": 4,
+    "data": []
+  },
+  {
+    "day": 4,
+    "time": 5,
+    "data": [
+      "L-18B1WCI742   CS-IT[PCC,PAI]E4_B4 (MSI) CR08"
+    ]
+  },
+  {
+    "day": 4,
+    "time": 6,
+    "data": [
+      "L- 25B1WCI741   CSAIDS_PE[23J11,23J12] (DGA) CR07",
+      "L-18B1WEC847/25B1WBI531 ECE_MINOR[23B11,23A11,23A14]24F11 (PRG) CR08"
+    ]
+  },
+  {
+    "day": 4,
+    "time": 7,
+    "data": [
+      "L-18B1WCI735  CSEALL_OE_E2 (RKI) CR01"
+    ]
+  },
+  {
+    "day": 4,
+    "time": 8,
+    "data": []
+  },
+  {
+    "day": 5,
+    "time": 0,
+    "data": [
+      "L- 25B1WCI740   CSAIML_PE[23I11,23I12] (SKS) CR16",
+      "L- 25B1WCI741   CS[23K11] (RMS) TR7"
+    ]
+  },
+  {
+    "day": 5,
+    "time": 1,
+    "data": [
+      "L-22B1WCE733  CEALL_OE_E2 (NJP) CR04",
+      "L-22B1WMA731 MAT_ALL_OE_E2 (RAD) CR05",
+      "L-18B1WBT734 BIO_D4[23E11,23F11] (HSD) TR1"
+    ]
+  },
+  {
+    "day": 5,
+    "time": 2,
+    "data": [
+      "P-18B1WCI772   CS-IT[PCC,PAI]E4_23A19 (RMS) ALAB2",
+      "L- 25B1WCI741   CSAIDS_PE[23J11,23J12] (DGA) CR06"
+    ]
+  },
+  {
+    "day": 5,
+    "time": 3,
+    "data": [
+      "P-18B1WCI772   CS-IT[PCC,PAI]E4_23A19 (RMS) ALAB2"
+    ]
+  },
+  {
+    "day": 5,
+    "time": 4,
+    "data": [
+      "L-22B1WPH731  PMSALL_OE_E2 (SBA) CR08",
+      "L-18B1WCI735  CSEALL_OE_E2 (RKI) CR01",
+      "L-20B1WEC734  ECEALL_OE_E2 (PDG) CR04"
+    ]
+  },
+  {
+    "day": 5,
+    "time": 5,
+    "data": [
+      "L-18B1WCE732 E5_23D11 (RRA) TR5"
+    ]
+  },
+  {
+    "day": 5,
+    "time": 6,
+    "data": []
+  },
+  {
+    "day": 5,
+    "time": 7,
+    "data": [
+      "L-18B1WEC850   EC_E5[23B11] (RKU) TR4",
+      "L-18B1WBI731/18M1WBT133   BIO[23F11,26MT11] (TTS) CR16",
+      "L-18B1WEC847/25B1WBI531 ECE_MINOR[23B11,23A11,23A14]24F11 (PRG) CR08"
+    ]
+  },
+  {
+    "day": 5,
+    "time": 8,
+    "data": []
+  }
+]

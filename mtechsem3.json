@@ -1,0 +1,357 @@
+[
+  {
+    "day": 0,
+    "time": 0,
+    "data": [
+      "P-20MS7BT372 25MB11 (RJK) BIL"
+    ]
+  },
+  {
+    "day": 0,
+    "time": 1,
+    "data": [
+      "P-20MS7BT372 25MB11 (RJK) BIL"
+    ]
+  },
+  {
+    "day": 0,
+    "time": 2,
+    "data": [
+      "L-20MS1BT311  25MB11 (GAI) TR2"
+    ]
+  },
+  {
+    "day": 0,
+    "time": 3,
+    "data": [
+      "L-20MS1BT312  25MB11 (ABH) TR1"
+    ]
+  },
+  {
+    "day": 0,
+    "time": 4,
+    "data": [
+      "P-24P1WBT272 PHD_BIOLAB1 (RST) UG1"
+    ]
+  },
+  {
+    "day": 0,
+    "time": 5,
+    "data": [
+      "P-24P1WBT272 PHD_BIOLAB1 (RST) UG1",
+      "L-20MS1BT315/21MS2MB311  25MB11,25MM11 (HSD) CR10"
+    ]
+  },
+  {
+    "day": 0,
+    "time": 6,
+    "data": []
+  },
+  {
+    "day": 0,
+    "time": 7,
+    "data": [
+      "T-22MS9BT311 25MB11 (JAS) TR5"
+    ]
+  },
+  {
+    "day": 0,
+    "time": 8,
+    "data": [
+      "L-18P1WGE101 PHD_RM (TNS,ANU) CR5"
+    ]
+  },
+  {
+    "day": 1,
+    "time": 0,
+    "data": [
+      "L-21MS1MB311 25MM11 (AKN) TR7"
+    ]
+  },
+  {
+    "day": 1,
+    "time": 1,
+    "data": [
+      "L-22MS1BT311  25MB11 (GAI) TR7"
+    ]
+  },
+  {
+    "day": 1,
+    "time": 2,
+    "data": [
+      "T-24P1WBT271 PHD_BIOLAB2 (HSD) UG2"
+    ]
+  },
+  {
+    "day": 1,
+    "time": 3,
+    "data": [
+      "T-24P1WBT271 PHD_BIOLAB2 (JAS) UG2"
+    ]
+  },
+  {
+    "day": 1,
+    "time": 4,
+    "data": [
+      "P-20MS7BT371 25MB11 (GAI) UG2"
+    ]
+  },
+  {
+    "day": 1,
+    "time": 5,
+    "data": [
+      "P-20MS7BT371 25MB11 (GAI) UG2"
+    ]
+  },
+  {
+    "day": 1,
+    "time": 6,
+    "data": [
+      "P-20MS7BT371 25MB11 (GAI) UG2"
+    ]
+  },
+  {
+    "day": 1,
+    "time": 7,
+    "data": [
+      "P-20MS7BT371 25MB11 (GAI) UG2",
+      "L-17P1WGE102 PHD_BIO2 (HSD) CR10"
+    ]
+  },
+  {
+    "day": 1,
+    "time": 8,
+    "data": []
+  },
+  {
+    "day": 2,
+    "time": 0,
+    "data": []
+  },
+  {
+    "day": 2,
+    "time": 1,
+    "data": []
+  },
+  {
+    "day": 2,
+    "time": 2,
+    "data": [
+      "L-20MS1BT311  25MB11 (GAI) TR7",
+      "L-24P1WBT231 PHD_BIO1 (PNS) CR17"
+    ]
+  },
+  {
+    "day": 2,
+    "time": 3,
+    "data": [
+      "L-20MS1BT312  25MB11 (ABH) TR9"
+    ]
+  },
+  {
+    "day": 2,
+    "time": 4,
+    "data": []
+  },
+  {
+    "day": 2,
+    "time": 5,
+    "data": [
+      "L-25P1WBT232 PHD_BIO3 (SBS) CR08",
+      "P-20MS7BT372 25MB11 (SML) BIL"
+    ]
+  },
+  {
+    "day": 2,
+    "time": 6,
+    "data": [
+      "L-24MS1MB311 25MM11 (AKN) CR12",
+      "P-20MS7BT372 25MB11 (SML) BIL"
+    ]
+  },
+  {
+    "day": 2,
+    "time": 7,
+    "data": [
+      "L-25P1WBT233 PhD_BIO (SML) CR11",
+      "L-20MS1BT314 25MB11 (UDB) CR09"
+    ]
+  },
+  {
+    "day": 2,
+    "time": 8,
+    "data": []
+  },
+  {
+    "day": 3,
+    "time": 0,
+    "data": []
+  },
+  {
+    "day": 3,
+    "time": 1,
+    "data": []
+  },
+  {
+    "day": 3,
+    "time": 2,
+    "data": []
+  },
+  {
+    "day": 3,
+    "time": 3,
+    "data": []
+  },
+  {
+    "day": 3,
+    "time": 4,
+    "data": [
+      "P-20MS7BT371 25MB11 (GAI) UG2"
+    ]
+  },
+  {
+    "day": 3,
+    "time": 5,
+    "data": [
+      "P-24P1WBT272 PHD_BIOLAB1 (SBS) UG1",
+      "P-20MS7BT371 25MB11 (GAI) UG2"
+    ]
+  },
+  {
+    "day": 3,
+    "time": 6,
+    "data": [
+      "P-24P1WBT272 PHD_BIOLAB1 (SBS) UG1",
+      "P-20MS7BT371 25MB11 (GAI) UG2"
+    ]
+  },
+  {
+    "day": 3,
+    "time": 7,
+    "data": [
+      "L-21MS1MB311 25MM11 (AKT) CR16",
+      "P-20MS7BT371 25MB11 (GAI) UG2"
+    ]
+  },
+  {
+    "day": 3,
+    "time": 8,
+    "data": []
+  },
+  {
+    "day": 4,
+    "time": 0,
+    "data": []
+  },
+  {
+    "day": 4,
+    "time": 1,
+    "data": []
+  },
+  {
+    "day": 4,
+    "time": 2,
+    "data": [
+      "L-22MS1BT311 25MB11 (GAI) TR7"
+    ]
+  },
+  {
+    "day": 4,
+    "time": 3,
+    "data": []
+  },
+  {
+    "day": 4,
+    "time": 4,
+    "data": [
+      "L-25P1WBT233 PhD_BIO (SML) CR18"
+    ]
+  },
+  {
+    "day": 4,
+    "time": 5,
+    "data": []
+  },
+  {
+    "day": 4,
+    "time": 6,
+    "data": [
+      "L-21MS2MB311 25MM11 (HSD) CR19"
+    ]
+  },
+  {
+    "day": 4,
+    "time": 7,
+    "data": [
+      "L-24MS1MB311 25MM11 (AKT) TR4",
+      "L-25P1WBT232 PHD_BIO3 (SBS) CR05"
+    ]
+  },
+  {
+    "day": 4,
+    "time": 8,
+    "data": [
+      "L-18P1WGE101 PHD_RM (TNS,ANU) CR5"
+    ]
+  },
+  {
+    "day": 5,
+    "time": 0,
+    "data": []
+  },
+  {
+    "day": 5,
+    "time": 1,
+    "data": []
+  },
+  {
+    "day": 5,
+    "time": 2,
+    "data": [
+      "L-21MS1MB311 25MM11 (AKN) CR19"
+    ]
+  },
+  {
+    "day": 5,
+    "time": 3,
+    "data": [
+      "L-20MS1BT311 25MB11 (GAI) TR7"
+    ]
+  },
+  {
+    "day": 5,
+    "time": 4,
+    "data": [
+      "L-25P1WBT233 PhD_BIO (RJK) CR18"
+    ]
+  },
+  {
+    "day": 5,
+    "time": 5,
+    "data": []
+  },
+  {
+    "day": 5,
+    "time": 6,
+    "data": [
+      "L-20MS1BT314 25MB11 (UDB) TR1",
+      "L-24MS1MB311 25MM11 (AKT) TR2",
+      "L-25P1WBT232 PHD_BIO3 (SBS) CR05"
+    ]
+  },
+  {
+    "day": 5,
+    "time": 7,
+    "data": [
+      "T-22MS9BT311 25MB11 (JAS) CR11",
+      "L-24P1WBT231 PHD_BIO1 (PNS) CR18"
+    ]
+  },
+  {
+    "day": 5,
+    "time": 8,
+    "data": [
+      "L-18P1WGE101 PHD_RM (TNS,ANU) CR5"
+    ]
+  }
+]

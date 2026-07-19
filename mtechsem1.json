@@ -1,0 +1,515 @@
+[
+  {
+    "day": 0,
+    "time": 0,
+    "data": [
+      "L-MBA10 26MW11 (RTK) CR13",
+      "L-TEC903 26MEC11 (ALK) CR14",
+      "L-25M1WCE131  26SE11  (TNM) TR8",
+      "L-TEC905 26IOT11 (HSL) TR9"
+    ]
+  },
+  {
+    "day": 0,
+    "time": 1,
+    "data": [
+      "L-25M11CE111  26SE11  (CPG) TR9",
+      "L-22M11CI111 26CD11 (EGA) CR12",
+      "L-18M11BT113 26MT11 (HSD) TR5",
+      "L-14M31CE113 26EE11 (RRA) CR03"
+    ]
+  },
+  {
+    "day": 0,
+    "time": 2,
+    "data": [
+      "L-10M11CE111 26CM11 (AKG) TR8",
+      "L-MBA3 26MW11 (ANU) CR13"
+    ]
+  },
+  {
+    "day": 0,
+    "time": 3,
+    "data": [
+      "L-14M31CE116 26EE11 (RRA) CR03",
+      "L-20MS1BT115  26MB11  (SDS) CR18",
+      "L-20B1WBI831  26MM11  (TYN) TR6",
+      "L-TEC901 26MEC11,26IOT11 (PDG) TR9",
+      "L- 25M11CE112  26SE11  (TNM) TR8",
+      "L-22M11CI112 26CD11 (HRI) TR3"
+    ]
+  },
+  {
+    "day": 0,
+    "time": 4,
+    "data": []
+  },
+  {
+    "day": 0,
+    "time": 5,
+    "data": [
+      "L-20MS1BT111 26MB11,26MM11  (JTV) CR16",
+      "L-17M1CE111 26EE11 (RRA) CR03",
+      "L-10M11CE115 26CM11 (ADP) TR9",
+      "L- 25M11CE114  26SE11  (SUV) TR8",
+      "L-TEC958 26MEC11 (SRU) CR14"
+    ]
+  },
+  {
+    "day": 0,
+    "time": 6,
+    "data": [
+      "L-20MS1MA111 25MB11,25MM11 (RKB) CR19",
+      "L-21MS1MB113 26MM11 (JAS) TR5",
+      "L-14M31CE114 26EE11 (CPG) CR03",
+      "L-20MS1BT112 26MB11  (ABH) CR11",
+      "L-25M11CE113  26SE11  (KKR) TR9",
+      "L-18M11BT114 26MT11 (GPL) CR12"
+    ]
+  },
+  {
+    "day": 0,
+    "time": 7,
+    "data": [
+      "L-21MS1MB111 26MM11 (RST) CR09"
+    ]
+  },
+  {
+    "day": 0,
+    "time": 8,
+    "data": []
+  },
+  {
+    "day": 1,
+    "time": 0,
+    "data": [
+      "L-22M1WCI133 26CD11 (PKR) CR01",
+      "L-13M11BT114 26MT11 (JAS) CR07",
+      "L-MBA2 26MW11 (TGM) CR14"
+    ]
+  },
+  {
+    "day": 1,
+    "time": 1,
+    "data": [
+      "L-13M11BT112 26MT11 (SML) CR18",
+      "L-10M11CE113 26CM11 (ABJ) TR9",
+      "L-14M31CE113 26EE11 (RRA) CR03",
+      "L-MBA1 26MW11 (ASA) CR13"
+    ]
+  },
+  {
+    "day": 1,
+    "time": 2,
+    "data": [
+      "L-14M31CE115 26EE11 (NJP) CR03",
+      "P-21MS7MB173  26MM11  (GPL) BIOCHEMLAB",
+      "L-TEC901 26MEC11,26IOT11 (PDG) TR8",
+      "L-20MS1BT112 26MB11  (ABH) CR1",
+      "L-10M11CE112 26CM11 (KKR) TR9",
+      "P-25M17CE171  26SE11  (AKG) CONCLAB"
+    ]
+  },
+  {
+    "day": 1,
+    "time": 3,
+    "data": [
+      "P-21MS7MB173  26MM11  (GPL) BIOCHEMLAB",
+      "L-14M31CE116 26EE11 (RRA) CR03",
+      "L-18M1WBT134 26MT11 (AKN) CR16",
+      "L-10M11CE114 26CM11 (ADP) TR8",
+      "L-2026_CC_BT CERT_COURSE (HSD) PTCLAB",
+      "L-26BXXHS1X 26MW11 (BKP) CR18",
+      "P-25M17CE171  26SE11  (AKG) CONCLAB"
+    ]
+  },
+  {
+    "day": 1,
+    "time": 4,
+    "data": []
+  },
+  {
+    "day": 1,
+    "time": 5,
+    "data": [
+      "T-MBA6 26MW11 (DLR) CR13",
+      "P-21MS7MB172  26MM11  (AKT) GENOMELAB",
+      "L-MBA7 26MW11 (VDN) CR13",
+      "L-10M11CE115 26CM11 (ADP) TR8"
+    ]
+  },
+  {
+    "day": 1,
+    "time": 6,
+    "data": [
+      "T-MBA6 26MW11 (DLR) CR13",
+      "P-21MS7MB172  26MM11  (AKT) GENOMELAB",
+      "P-22M17MA171 26CD11 (RMS) CL12"
+    ]
+  },
+  {
+    "day": 1,
+    "time": 7,
+    "data": [
+      "T-MBA6 26MW11 (DLR) CR13",
+      "P-21MS7MB172  26MM11  (AKT) GENOMELAB",
+      "P-22M17MA171 26CD11 (RMS) CL12"
+    ]
+  },
+  {
+    "day": 1,
+    "time": 8,
+    "data": [
+      "P-21MS7MB172  26MM11  (AKT) GENOMELAB"
+    ]
+  },
+  {
+    "day": 2,
+    "time": 0,
+    "data": [
+      "P-21MS7MB171  26MM11  (AKN) UG1",
+      "L-TEC905 26IOT11 (HSL) TR9",
+      "P-20MS7BT173 26MB11 (RST) MICROLAB"
+    ]
+  },
+  {
+    "day": 2,
+    "time": 1,
+    "data": [
+      "L-25M1WCE131  26SE11  (TNM) TR8",
+      "P-21MS7MB171  26MM11  (AKN) UG1",
+      "T-2026_CC_BT CERT_COURSE (HSD) PTCLAB",
+      "L-25M11CE111  26SE11  (CPG) TR9",
+      "L-14M31CE113 26EE11 (RRA) CR03",
+      "P-20MS7BT173 26MB11 (RST) MICROLAB"
+    ]
+  },
+  {
+    "day": 2,
+    "time": 2,
+    "data": [
+      "L-14M31CE114 26EE11 (CPG) CR03",
+      "L-22M1WCI131 26CD11 (MNV) CR17",
+      "P-21MS7MB171  26MM11  (AKN) UG1",
+      "L-13M11BT111 26MT11 (ABH) CR16",
+      "L-TEC901 26MEC11,26IOT11 (PDG) TR8",
+      "L-25M11CE113  26SE11  (KKR) TR9",
+      "L-22M1WCI136 26CD11 (VSG) CR12",
+      "P-20MS7BT173 26MB11 (RST) MICROLAB"
+    ]
+  },
+  {
+    "day": 2,
+    "time": 3,
+    "data": [
+      "L-22M1WCI136 26CD11 (VSG) CR12",
+      "P-21MS7MB171  26MM11  (AKN) UG1",
+      "L-13M11BT112 26MT11 (SML) CR17",
+      "L-10M11CE111 26CM11 (AKG) TR8",
+      "P-20MS7BT173 26MB11 (RST) MICROLAB"
+    ]
+  },
+  {
+    "day": 2,
+    "time": 4,
+    "data": [
+      "P-20MS7BT171 26MB11 (JTV) UG1",
+      "P-TEC902 26IOT11,26MEC11 (VKB) CL10"
+    ]
+  },
+  {
+    "day": 2,
+    "time": 5,
+    "data": [
+      "P-20MS7BT171 26MB11 (JTV) UG1",
+      "P-TEC902 26IOT11,26MEC11 (VKB) CL10",
+      "T-MBA6 26MW11 (DLR) CR13",
+      "L-18M11BT114 26MT11 (GPL) CR19",
+      "L-25M1WCE131  26SE11  (TNM) TR8"
+    ]
+  },
+  {
+    "day": 2,
+    "time": 6,
+    "data": [
+      "P-20MS7BT171 26MB11 (JTV) UG1",
+      "L-TEC958 26MEC11 (SRU) CR14",
+      "L-21MS1MB112  26MM11  (AKT) CR18",
+      "T-MBA6 26MW11 (DLR) CR13",
+      "L-22M11CI112 26CD11 (HRI) TR3"
+    ]
+  },
+  {
+    "day": 2,
+    "time": 7,
+    "data": [
+      "P-20MS7BT171 26MB11 (JTV) UG1",
+      "T-MBA6 26MW11 (DLR) CR13"
+    ]
+  },
+  {
+    "day": 2,
+    "time": 8,
+    "data": []
+  },
+  {
+    "day": 3,
+    "time": 0,
+    "data": [
+      "L-22M1WCI131 26CD11 (MNV) CR16",
+      "L-MBA2 26MW11 (TGM) TR8",
+      "P-13M17BT171 26MT11 (ABH) UG2"
+    ]
+  },
+  {
+    "day": 3,
+    "time": 1,
+    "data": [
+      "L-22M1WCI133 26CD11 (PKR) TR7",
+      "L-MBA1 26MW11 (ASA) TR8",
+      "L-TEC965 26IOT11 (RKU) CR13",
+      "P-13M17BT171 26MT11 (ABH) UG2",
+      "L-18M11BT114 26MT11 (GPL) CR18"
+    ]
+  },
+  {
+    "day": 3,
+    "time": 2,
+    "data": [
+      "L-MBA4 26MW11 (TNS) CR14",
+      "L-14M31CE114 26EE11 (CPG) CR03",
+      "L-MBA4 26MW11 (TNS) CR14"
+    ]
+  },
+  {
+    "day": 3,
+    "time": 3,
+    "data": [
+      "T-26BXXHS1X 26MW11 (BKP) CR18",
+      "L-20MS1BT111 26MB11,26MM11  (JTV) CR16",
+      "L-13M11BT111 26MT11 (ABH) TR5",
+      "L-10M11CE112 26CM11 (KKR) TR9"
+    ]
+  },
+  {
+    "day": 3,
+    "time": 4,
+    "data": [
+      "L-22M11CI111 26CD11 (EGA) TR6",
+      "P-TEC906 26IOT11 (NTJ) ECL5,DLAB",
+      "P-14M37CE171 26EE11 (ASR) ENVLAB"
+    ]
+  },
+  {
+    "day": 3,
+    "time": 5,
+    "data": [
+      "P-TEC906 26IOT11 (NTJ) ECL5,DLAB",
+      "L-10M11CE114 26CM11 (ADP) TR9",
+      "P-14M37CE171 26EE11 (ASR) ENVLAB",
+      "L- 25M11CE114  26SE11  (SUV) TR8"
+    ]
+  },
+  {
+    "day": 3,
+    "time": 6,
+    "data": [
+      "L- 25M11CE112  26SE11  (TNM) TR8",
+      "L-20MS1BT113 26MB11  (HSD) CR19",
+      "L-13M11BT114 26MT11 (ABH) CR17",
+      "P-14M37CE171 26EE11 (ASR) ENVLAB",
+      "L-20MS1PH111 26MB11 (GPL) CR16"
+    ]
+  },
+  {
+    "day": 3,
+    "time": 7,
+    "data": [
+      "L-21MS1MB111 26MM11 (RST) CR18",
+      "L-TEC961 26MEC11,26IOT11 (EMP) TR9",
+      "L- 25M11CE114  26SE11  (SUV) TR8",
+      "P-14M37CE171 26EE11 (ASR) ENVLAB"
+    ]
+  },
+  {
+    "day": 3,
+    "time": 8,
+    "data": []
+  },
+  {
+    "day": 4,
+    "time": 0,
+    "data": [
+      "L-22M1WCI133 26CD11 (PKR) CR10",
+      "L-TEC903 26MEC11 (ALK) TR9",
+      "P-20MS7BT172  26MB11  (UDB) PTCLAB",
+      "L-MBA2 26MW11 (TGM) TR8"
+    ]
+  },
+  {
+    "day": 4,
+    "time": 1,
+    "data": [
+      "L-21MS1MB113 26MM11 (JAS) TR3",
+      "L-10M11CE113 26CM11 (ABJ) TR9",
+      "P-20MS7BT172  26MB11  (UDB) PTCLAB",
+      "L-17M1CE111 26EE11 (RRA) CR03",
+      "L-MBA3 26MW11 (ANU) CR14"
+    ]
+  },
+  {
+    "day": 4,
+    "time": 2,
+    "data": [
+      "P-25M17CE171  26SE11  (AKG) CONCLAB",
+      "L-22M11MA111 26CD11 (RBT) CR18",
+      "L-20MS1BT114  26MB11  (RST) CR17",
+      "L-13M11BT114 26MT11 (ABH) TR5",
+      "P-TEC904 26MEC11 (MSD) ECL4",
+      "L-14M31CE115 26EE11 (NJP) CR03"
+    ]
+  },
+  {
+    "day": 4,
+    "time": 3,
+    "data": [
+      "L-TEC965 26IOT11 (RKU) CR13",
+      "P-25M17CE171  26SE11  (AKG) CONCLAB",
+      "T-26BXXHS1X 26MW11 (BKP) CR18",
+      "P-TEC904 26MEC11 (MSD) ECL4"
+    ]
+  },
+  {
+    "day": 4,
+    "time": 4,
+    "data": [
+      "L-22M11CI111 26CD11 (EGA) TR3"
+    ]
+  },
+  {
+    "day": 4,
+    "time": 5,
+    "data": [
+      "L-20MS1BT112 26MB11  (ABH) TR7",
+      "L-13M11BT112 26MT11 (SML) CR19",
+      "P-22M17CI172 26CD11 (PKR) CL12",
+      "L-10M11CE115 26CM11 (ADP) TR9",
+      "L-MBA9 26MW11 (ANU) CR13"
+    ]
+  },
+  {
+    "day": 4,
+    "time": 6,
+    "data": [
+      "L-21MS1MB111 26MM11 (RST) CR18",
+      "L-MBA7 26MW11 (VDN) CR13",
+      "P-22M17CI172 26CD11 (PKR) CL12",
+      "L-25M11CE113  26SE11  (KKR) TR9"
+    ]
+  },
+  {
+    "day": 4,
+    "time": 7,
+    "data": [
+      "L-MBA8 26MW11 (ASA) CR14",
+      "L-TEC961 26MEC11,26IOT11 (EMP) TR9"
+    ]
+  },
+  {
+    "day": 4,
+    "time": 8,
+    "data": []
+  },
+  {
+    "day": 5,
+    "time": 0,
+    "data": [
+      "P-21MS7BT171  26MM11  (JTV) UG2",
+      "P-20MS7BT171 26MB11 (SBS) UG1",
+      "P-TEC904 26MEC11 (MSD) ECL4",
+      "L-22M11CI112 26CD11 (HRI) TR3",
+      "L-TEC905 26IOT11 (HSL) TR8",
+      "L-10M11CE113 26CM11 (ABJ) TR9",
+      "L-18M1WBT134 26MT11 (AKN) CR18"
+    ]
+  },
+  {
+    "day": 5,
+    "time": 1,
+    "data": [
+      "P-21MS7BT171  26MM11  (JTV) UG2",
+      "L-TEC965 26IOT11 (RKU) CR13",
+      "P-20MS7BT171 26MB11 (SBS) UG1",
+      "P-TEC904 26MEC11 (MSD) ECL4",
+      "L-MBA1 26MW11 (ASA) TR9",
+      "L-17M1CE111 26EE11 (RRA) CR03",
+      "L-10M11CE114 26CM11 (ADP) TR8",
+      "L-18M11BT113 26MT11 (ABH) CR16"
+    ]
+  },
+  {
+    "day": 5,
+    "time": 2,
+    "data": [
+      "L-14M31CE116 26EE11 (RRA) CR03",
+      "P-20MS7BT171 26MB11 (SBS) UG1",
+      "L-10M11CE111 26CM11 (AKG) TR8",
+      "L-25M11CE111  26SE11  (CPG) TR9",
+      "P-TEC902 26IOT11,26MEC11 (VKB) CL1B",
+      "P-22M17CI171 26CD11 (ATA) CL81"
+    ]
+  },
+  {
+    "day": 5,
+    "time": 3,
+    "data": [
+      "L-21MS1MB112  26MM11  (AKT) CR17",
+      "L-MBA4 26MW11 (TNS) CR14",
+      "P-20MS7BT171 26MB11 (SBS) UG1",
+      "L-10M11CE112 26CM11 (KKR) TR9",
+      "L- 25M11CE112  26SE11  (TNM) TR8",
+      "P-TEC902 26IOT11,26MEC11 (VKB) CL1B",
+      "P-22M17CI171 26CD11 (ATA) CL81",
+      "L-14M31CE115 26EE11 (NJP) CR03"
+    ]
+  },
+  {
+    "day": 5,
+    "time": 4,
+    "data": [
+      "P-13M17BT172 26MT11 (SML) BIL"
+    ]
+  },
+  {
+    "day": 5,
+    "time": 5,
+    "data": [
+      "P-20MS7BT172  26MB11  (HSD) PTCLAB",
+      "L-22M11MA111 26CD11 (RBT) CR16",
+      "L-20MS1MA111 25MB11,25MM11 (RKB) CR19",
+      "P-13M17BT172 26MT11 (SML) BIL"
+    ]
+  },
+  {
+    "day": 5,
+    "time": 6,
+    "data": [
+      "L-22M1WCI136 26CD11 (VSG) CR12",
+      "P-20MS7BT172  26MB11  (HSD) PTCLAB",
+      "L-MBA7 26MW11 (VDN) CR13"
+    ]
+  },
+  {
+    "day": 5,
+    "time": 7,
+    "data": [
+      "L-TEC961 26MEC11,26IOT11 (EMP) TR9",
+      "L-20MS1BT113 26MB11  (UDB) CR19"
+    ]
+  },
+  {
+    "day": 5,
+    "time": 8,
+    "data": []
+  }
+]
