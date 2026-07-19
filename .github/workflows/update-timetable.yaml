@@ -38,7 +38,7 @@ jobs:
 
       # 5. Run script
       - name: Generate timetable JSON
-        run: python3 UPDATE --even-sem false --debug --timetable-url "https://www.juit.ac.in/TTC/ODDSEMTT2026.xls"
+        run: python3 UPDATE --debug --timetable-url "https://www.juit.ac.in/TTC/ODDSEMTT2026.xls"
 
       # 6. Commit and push generated files
       - name: Commit and push data
