@@ -1,6 +1,6 @@
 import { createFileRoute } from '@tanstack/react-router'
 import { Select, SelectItem } from "@heroui/select"
-import { EVEN_SEM, type CourseKey } from '@/utils/constants'
+import { ODD_SEM, type CourseKey } from '@/utils/constants'
 import { useEffect, useState } from 'react'
 import { Input } from "@heroui/input"
 import { Button } from '@heroui/button'
@@ -75,7 +75,7 @@ function App() {
           setError((prev) => ({ ...prev, course: undefined }))
         }}
       >
-        {EVEN_SEM.map((course) => (
+        {ODD_SEM.map((course) => (
           <SelectItem key={course}>
             {course}
           </SelectItem>
