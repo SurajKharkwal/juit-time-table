@@ -88,7 +88,7 @@
     "time": 2,
     "data": [
       "P-18B1WCE771 E6_23D11 (ABJ) ENVLAB",
-      "P-18B1WCI772   CS-IT[PCC,PAI]E4_23C11 (SMA) CL1A"
+      "P-18B1WCI772   CS-IT[PCC,PAI]E4_23A12 (VSG) ALAB1"
     ]
   },
   {
@@ -96,9 +96,8 @@
     "time": 3,
     "data": [
       "P-18B1WCE771 E6_23D11 (ABJ) ENVLAB",
-      "P-18B1WCI772   CS-IT[PCC,PAI]E4_23C11 (SMA) CL1A",
+      "P-18B1WCI772   CS-IT[PCC,PAI]E4_23A12 (VSG) ALAB1",
       "L- 25B1WCI740   CSAIML_PE[23I11,23I12] (SKS) CR17",
-      "L- 25B1WCI741   CSAIDS_PE[23J11,23J12] (DGA) CR07",
       "L- 25B1WCI742   CS[23K11] (RMS) TR5"
     ]
   },
@@ -111,7 +110,7 @@
     "day": 1,
     "time": 5,
     "data": [
-      "L-18B1WCI742   CS-IT[PCC,PAI]E4_B2 (SMA) LT2",
+      "L-18B1WCI742   CS-IT[PCC,PAI]E4_B2 (SMA) CR01",
       "L-18B1WCI742   CS-IT[PCC,PAI]E4_B4 (MSI) CR02",
       "L-14B1WBT739   BIO[23E11,23F11] (UDB) CR16"
     ]
@@ -167,7 +166,8 @@
     "data": [
       "L-14B1WBT741 23E11 (TYN) CR10",
       "L-18B1WCE732 E5_23D11 (RRA) CR10",
-      "L-14B1WBT739   BIO[23E11,23F11] (UDB) CR16"
+      "L-14B1WBT739   BIO[23E11,23F11] (UDB) CR16",
+      "L- 25B1WCI741   CSAIDS_PE[23J11,23J12] (DGA) CR07"
     ]
   },
   {
@@ -188,16 +188,14 @@
     "day": 2,
     "time": 6,
     "data": [
-      "P-18B1WCI772   CS-IT[PCC,PAI]E4_23A11 (DSA) ALAB1",
-      "P-18B1WCI772   CS-IT[PCC,PAI]E4_23A12 (VSG) ALAB2"
+      "P-18B1WCI772   CS-IT[PCC,PAI]E4_23A11 (DSA) ALAB1"
     ]
   },
   {
     "day": 2,
     "time": 7,
     "data": [
-      "P-18B1WCI772   CS-IT[PCC,PAI]E4_23A11 (DSA) ALAB1",
-      "P-18B1WCI772   CS-IT[PCC,PAI]E4_23A12 (VSG) ALAB2"
+      "P-18B1WCI772   CS-IT[PCC,PAI]E4_23A11 (DSA) ALAB1"
     ]
   },
   {
@@ -234,7 +232,8 @@
     "data": [
       "P-18B1WCI772   CS-IT[PCC,PAI]E4_23A15 (HRI) ALAB1",
       "P-18B1WCI772   CS-IT[PCC,PAI]E4_23A16 (HRI) ALAB2",
-      "L-18B1WCI742   CS-IT[PCC,PAI]E4_B3 (RIV) CR02"
+      "L-18B1WCI742   CS-IT[PCC,PAI]E4_B3 (RIV) CR02",
+      "L-22B1WCE731  CEALL_OE_E1 (ABJ) CR04"
     ]
   },
   {
@@ -258,8 +257,7 @@
     "day": 3,
     "time": 7,
     "data": [
-      "L-22B1WPH731  PMSALL_OE_E2 (SBA) CR08",
-      "L-22B1WCE731  CEALL_OE_E1 (ABJ) CR04"
+      "L-22B1WPH731  PMSALL_OE_E2 (SBA) CR08"
     ]
   },
   {
@@ -348,8 +346,7 @@
     "day": 5,
     "time": 2,
     "data": [
-      "P-18B1WCI772   CS-IT[PCC,PAI]E4_23A19 (RMS) ALAB2",
-      "L- 25B1WCI741   CSAIDS_PE[23J11,23J12] (DGA) CR06"
+      "P-18B1WCI772   CS-IT[PCC,PAI]E4_23A19 (RMS) ALAB2"
     ]
   },
   {
@@ -378,7 +375,9 @@
   {
     "day": 5,
     "time": 6,
-    "data": []
+    "data": [
+      "L- 25B1WCI741   CSAIDS_PE[23J11,23J12] (DGA) CR04"
+    ]
   },
   {
     "day": 5,

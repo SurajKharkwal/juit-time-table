@@ -36,8 +36,7 @@
       "L-20MS1BT115  26MB11  (SDS) CR18",
       "L-20B1WBI831  26MM11  (TYN) TR6",
       "L-TEC901 26MEC11,26IOT11 (PDG) TR9",
-      "L- 25M11CE112  26SE11  (TNM) TR8",
-      "L-22M11CI112 26CD11 (HRI) TR3"
+      "L- 25M11CE112  26SE11  (TNM) TR8"
     ]
   },
   {
@@ -87,6 +86,7 @@
     "day": 1,
     "time": 0,
     "data": [
+      "L-22M11CI112 26CD11 (HRI) TR1",
       "L-22M1WCI133 26CD11 (PKR) CR01",
       "L-13M11BT114 26MT11 (JAS) CR07",
       "L-MBA2 26MW11 (TGM) CR14"
@@ -110,6 +110,7 @@
       "L-14M31CE115 26EE11 (NJP) CR03",
       "P-21MS7MB173  26MM11  (GPL) BIOCHEMLAB",
       "L-TEC901 26MEC11,26IOT11 (PDG) TR8",
+      "L-MBA10 26MW11 (RTK) CR14",
       "L-26M11CE112 26CM11 (KKR) TR9",
       "P-25M17CE171  26SE11  (AKG) CONCLAB"
     ]
@@ -137,7 +138,6 @@
     "time": 5,
     "data": [
       "P-21MS7MB172  26MM11  (AKT) GENOMELAB",
-      "L-MBA10 26MW11 (RTK) CR13",
       "L-26M11CE114 26CM11 (ADP) TR8"
     ]
   },
@@ -192,7 +192,7 @@
     "time": 2,
     "data": [
       "L-14M31CE114 26EE11 (CPG) CR03",
-      "L-22M1WCI131 26CD11 (MNV) CR17",
+      "L-22M1WCI131 26CD11 (AMN) CR17",
       "P-21MS7MB171  26MM11  (AKN) UG1",
       "L-13M11BT111 26MT11 (ABH) CR16",
       "L-TEC901 26MEC11,26IOT11 (PDG) TR8",
@@ -205,7 +205,6 @@
     "day": 2,
     "time": 3,
     "data": [
-      "L-22M1WCI136 26CD11 (VSG) CR12",
       "P-21MS7MB171  26MM11  (AKN) UG1",
       "L-13M11BT112 26MT11 (SML) CR17",
       "L-26M11CE111 26CM11 (AKG) TR8",
@@ -259,7 +258,7 @@
     "day": 3,
     "time": 0,
     "data": [
-      "L-22M1WCI131 26CD11 (MNV) CR16",
+      "L-22M1WCI131 26CD11 (AMN) CR16",
       "L-MBA2 26MW11 (TGM) TR8",
       "P-13M17BT171 26MT11 (ABH) UG2"
     ]
@@ -365,7 +364,7 @@
     "time": 2,
     "data": [
       "P-25M17CE171  26SE11  (AKG) CONCLAB",
-      "L-22M11MA111 26CD11 (RBT) CR18",
+      "L-22M11MA111 26CD11 (RBT) TR4",
       "L-20MS1BT114  26MB11  (RST) CR17",
       "L-13M11BT114 26MT11 (ABH) TR5",
       "P-TEC904 26MEC11 (MSD) ECL4",
@@ -378,6 +377,7 @@
     "data": [
       "L-TEC965 26IOT11 (RKU) CR13",
       "P-25M17CE171  26SE11  (AKG) CONCLAB",
+      "L-22M1WCI136 26CD11 (VSG) CR11",
       "T-26BXXHS1X 26MW11 (BKP) CR18",
       "P-TEC904 26MEC11 (MSD) ECL4"
     ]
@@ -393,7 +393,7 @@
     "data": [
       "L-20MS1BT112 26MB11  (ABH) TR7",
       "L-13M11BT112 26MT11 (SML) CR19",
-      "P-22M17CI172 26CD11 (PKR) CL12",
+      "P-22M17CI172 26CD11 (PKR) CL51",
       "L-26M11CE114 26CM11 (ADP) TR9",
       "L-MBA9 26MW11 (ANU) CR13"
     ]
@@ -404,7 +404,7 @@
     "data": [
       "L-21MS1MB111 26MM11 (RST) CR18",
       "L-MBA7 26MW11 (VDN) CR13",
-      "P-22M17CI172 26CD11 (PKR) CL12",
+      "P-22M17CI172 26CD11 (PKR) CL51",
       "L-25M11CE113  26SE11  (KKR) TR9"
     ]
   },
