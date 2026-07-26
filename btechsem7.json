@@ -338,8 +338,7 @@
     "time": 1,
     "data": [
       "L-22B1WCE733  CEALL_OE_E2 (NJP) CR04",
-      "L-22B1WMA731 MAT_ALL_OE_E2 (RAD) CR05",
-      "L-18B1WBT734 BIO_D4[23E11,23F11] (HSD) TR1"
+      "L-22B1WMA731 MAT_ALL_OE_E2 (RAD) CR05"
     ]
   },
   {
@@ -353,7 +352,8 @@
     "day": 5,
     "time": 3,
     "data": [
-      "P-18B1WCI772   CS-IT[PCC,PAI]E4_23A19 (RMS) ALAB2"
+      "P-18B1WCI772   CS-IT[PCC,PAI]E4_23A19 (RMS) ALAB2",
+      "L-18B1WBT734 BIO_D4[23E11,23F11] (HSD) TR5"
     ]
   },
   {
