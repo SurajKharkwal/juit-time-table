@@ -16,9 +16,7 @@
   {
     "day": 0,
     "time": 2,
-    "data": [
-      "L-20MS1BT311  25MB11 (GAI) TR2"
-    ]
+    "data": []
   },
   {
     "day": 0,
@@ -79,7 +77,8 @@
     "day": 1,
     "time": 2,
     "data": [
-      "T-24P1WBT271 PHD_BIOLAB2 (HSD) UG2"
+      "T-24P1WBT271 PHD_BIOLAB2 (HSD) UG2",
+      "L-20MS1BT311  25MB11 (GAI) CR17"
     ]
   },
   {

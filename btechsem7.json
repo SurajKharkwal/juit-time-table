@@ -43,8 +43,8 @@
     "time": 5,
     "data": [
       "L-22B1WCE733  CEALL_OE_E2 (NJP) CR05",
-      "L-18B1WCI735  CSEALL_OE_E2 (RKI) CR01",
-      "L-20B1WEC734  ECEALL_OE_E2 (PDG) CR04"
+      "L-20B1WEC734  ECEALL_OE_E2 (PDG) CR04",
+      "L-19B1WBT732 BIO_OE_E2 (UDB) CR01"
     ]
   },
   {
@@ -262,7 +262,8 @@
     "day": 3,
     "time": 7,
     "data": [
-      "L-22B1WPH731  PMSALL_OE_E2 (SBA) CR08"
+      "L-22B1WPH731  PMSALL_OE_E2 (SBA) CR08",
+      "L-19B1WBT732 BIO_OE_E2 (UDB) CR01"
     ]
   },
   {
@@ -322,9 +323,7 @@
   {
     "day": 4,
     "time": 7,
-    "data": [
-      "L-18B1WCI735  CSEALL_OE_E2 (RKI) CR01"
-    ]
+    "data": []
   },
   {
     "day": 4,
@@ -370,8 +369,8 @@
     "time": 4,
     "data": [
       "L-22B1WPH731  PMSALL_OE_E2 (SBA) CR08",
-      "L-18B1WCI735  CSEALL_OE_E2 (RKI) CR01",
-      "L-20B1WEC734  ECEALL_OE_E2 (PDG) CR04"
+      "L-20B1WEC734  ECEALL_OE_E2 (PDG) CR04",
+      "L-19B1WBT732 BIO_OE_E2 (UDB) CR01"
     ]
   },
   {
