@@ -16,7 +16,9 @@
   {
     "day": 0,
     "time": 2,
-    "data": []
+    "data": [
+      "L-25P1WBT232 PHD_BIO3 (SBS) TR2"
+    ]
   },
   {
     "day": 0,
@@ -158,7 +160,6 @@
     "day": 2,
     "time": 5,
     "data": [
-      "L-25P1WBT232 PHD_BIO3 (SBS) CR08",
       "P-20MS7BT372 25MB11 (SML) BIL"
     ]
   },
