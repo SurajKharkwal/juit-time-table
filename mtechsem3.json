@@ -57,9 +57,7 @@
   {
     "day": 0,
     "time": 8,
-    "data": [
-      "L-18P1WGE101 PHD_RM (TNS,ANU) CR5"
-    ]
+    "data": []
   },
   {
     "day": 1,
@@ -72,7 +70,7 @@
     "day": 1,
     "time": 1,
     "data": [
-      "L-22MS1BT311  25MB11 (GAI) TR7"
+      "L-22MS1BT311  25MB11 (AKT) TR7"
     ]
   },
   {
@@ -94,28 +92,28 @@
     "day": 1,
     "time": 4,
     "data": [
-      "P-20MS7BT371 25MB11 (GAI) UG2"
+      "P-20MS7BT371 25MB11 (GAI) MICROLAB"
     ]
   },
   {
     "day": 1,
     "time": 5,
     "data": [
-      "P-20MS7BT371 25MB11 (GAI) UG2"
+      "P-20MS7BT371 25MB11 (GAI) MICROLAB"
     ]
   },
   {
     "day": 1,
     "time": 6,
     "data": [
-      "P-20MS7BT371 25MB11 (GAI) UG2"
+      "P-20MS7BT371 25MB11 (GAI) MICROLAB"
     ]
   },
   {
     "day": 1,
     "time": 7,
     "data": [
-      "P-20MS7BT371 25MB11 (GAI) UG2",
+      "P-20MS7BT371 25MB11 (GAI) MICROLAB",
       "L-17P1WGE102 PHD_BIO2 (HSD) CR10"
     ]
   },
@@ -230,6 +228,7 @@
     "day": 3,
     "time": 7,
     "data": [
+      "L-18P1WGE101 PHD_RM (TNS,ANU) CR05",
       "L-21MS1MB311 25MM11 (AKT) CR16",
       "P-20MS7BT371 25MB11 (GAI) UG2"
     ]
@@ -253,7 +252,7 @@
     "day": 4,
     "time": 2,
     "data": [
-      "L-22MS1BT311 25MB11 (GAI) TR6"
+      "L-22MS1BT311 25MB11 (AKT) TR6"
     ]
   },
   {
@@ -291,9 +290,7 @@
   {
     "day": 4,
     "time": 8,
-    "data": [
-      "L-18P1WGE101 PHD_RM (TNS,ANU) CR5"
-    ]
+    "data": []
   },
   {
     "day": 5,
@@ -309,14 +306,15 @@
     "day": 5,
     "time": 2,
     "data": [
-      "L-21MS1MB311 25MM11 (AKN) CR19"
+      "L-20MS1BT315/21MS2MB311  25MB11,25MM11 (HSD) CR19"
     ]
   },
   {
     "day": 5,
     "time": 3,
     "data": [
-      "L-20MS1BT311 25MB11 (GAI) TR7"
+      "L-20MS1BT311 25MB11 (GAI) TR7",
+      "L-21MS1MB311 25MM11 (AKN) CR19"
     ]
   },
   {
@@ -345,7 +343,8 @@
     "time": 7,
     "data": [
       "T-22MS9BT311 25MB11 (JAS) CR11",
-      "L-24P1WBT231 PHD_BIO1 (PNS) CR18"
+      "L-24P1WBT231 PHD_BIO1 (PNS) CR18",
+      "L-18P1WGE101 PHD_RM (TNS,ANU) CR05"
     ]
   },
   {
