@@ -17,6 +17,7 @@
     "day": 0,
     "time": 2,
     "data": [
+      "T-22MS9BT311 25MB11 (JAS) CR18",
       "L-25P1WBT232 PHD_BIO3 (SBS) TR2"
     ]
   },
@@ -50,9 +51,7 @@
   {
     "day": 0,
     "time": 7,
-    "data": [
-      "T-22MS9BT311 25MB11 (JAS) TR5"
-    ]
+    "data": []
   },
   {
     "day": 0,
@@ -77,7 +76,7 @@
     "day": 1,
     "time": 2,
     "data": [
-      "T-24P1WBT271 PHD_BIOLAB2 (HSD) UG2",
+      "T-24P1WBT271 PHD_BIOLAB2 (AKT) UG2",
       "L-20MS1BT311  25MB11 (GAI) CR17"
     ]
   },
@@ -151,7 +150,7 @@
     "day": 2,
     "time": 4,
     "data": [
-      "L-25P1WBT233 PhD_BIO (SML) CR18"
+      "L-25P1WBT233 PhD_BIO (RJK) CR18"
     ]
   },
   {
@@ -173,7 +172,7 @@
     "day": 2,
     "time": 7,
     "data": [
-      "L-20MS1BT314 25MB11 (UDB) CR09"
+      "L-20MS1BT314 25MB11 (TYN) CR09"
     ]
   },
   {
@@ -184,7 +183,9 @@
   {
     "day": 3,
     "time": 0,
-    "data": []
+    "data": [
+      "L-24P1WCE232 PHD_CIV (ADP) CABIN"
+    ]
   },
   {
     "day": 3,
@@ -199,7 +200,9 @@
   {
     "day": 3,
     "time": 3,
-    "data": []
+    "data": [
+      "L-21MS2MB311 25MM11 (HSD) CR10"
+    ]
   },
   {
     "day": 3,
@@ -252,13 +255,15 @@
     "day": 4,
     "time": 2,
     "data": [
-      "L-22MS1BT311 25MB11 (AKT) TR6"
+      "L-22MS1BT311 25MB11 (AKT) CR18"
     ]
   },
   {
     "day": 4,
     "time": 3,
-    "data": []
+    "data": [
+      "L-NET_CLASS 25MB11,25MM11 (JAS) CR11"
+    ]
   },
   {
     "day": 4,
@@ -275,9 +280,7 @@
   {
     "day": 4,
     "time": 6,
-    "data": [
-      "L-21MS2MB311 25MM11 (HSD) CR19"
-    ]
+    "data": []
   },
   {
     "day": 4,
@@ -300,7 +303,9 @@
   {
     "day": 5,
     "time": 1,
-    "data": []
+    "data": [
+      "L-NET_CLASS 25MB11,25MM11 (JAS) CR17"
+    ]
   },
   {
     "day": 5,
@@ -333,7 +338,7 @@
     "day": 5,
     "time": 6,
     "data": [
-      "L-20MS1BT314 25MB11 (UDB) TR1",
+      "L-20MS1BT314 25MB11 (TYN) TR1",
       "L-24MS1MB311 25MM11 (AKT) TR2",
       "L-25P1WBT232 PHD_BIO3 (SBS) CR05"
     ]
