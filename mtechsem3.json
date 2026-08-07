@@ -190,7 +190,9 @@
   {
     "day": 3,
     "time": 1,
-    "data": []
+    "data": [
+      "L-24P1WBT231 PHD_BIO1 (PNS) CR11"
+    ]
   },
   {
     "day": 3,
@@ -348,7 +350,6 @@
     "time": 7,
     "data": [
       "T-22MS9BT311 25MB11 (JAS) CR11",
-      "L-24P1WBT231 PHD_BIO1 (PNS) CR18",
       "L-18P1WGE101 PHD_RM (TNS,ANU) CR05"
     ]
   },
