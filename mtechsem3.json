@@ -56,7 +56,9 @@
   {
     "day": 0,
     "time": 8,
-    "data": []
+    "data": [
+      "L-18P1WGE101 PHD_RM (TNS,ANU) CR07"
+    ]
   },
   {
     "day": 1,
@@ -178,7 +180,9 @@
   {
     "day": 2,
     "time": 8,
-    "data": []
+    "data": [
+      "L-18P1WGE101 PHD_RM (TNS,ANU) CR07"
+    ]
   },
   {
     "day": 3,
@@ -233,7 +237,6 @@
     "day": 3,
     "time": 7,
     "data": [
-      "L-18P1WGE101 PHD_RM (TNS,ANU) CR05",
       "L-21MS1MB311 25MM11 (AKT) CR16",
       "P-20MS7BT371 25MB11 (GAI) UG2"
     ]
@@ -349,13 +352,14 @@
     "day": 5,
     "time": 7,
     "data": [
-      "T-22MS9BT311 25MB11 (JAS) CR11",
-      "L-18P1WGE101 PHD_RM (TNS,ANU) CR05"
+      "T-22MS9BT311 25MB11 (JAS) CR11"
     ]
   },
   {
     "day": 5,
     "time": 8,
-    "data": []
+    "data": [
+      "L-18P1WGE101 PHD_RM (TNS,ANU) CR07"
+    ]
   }
 ]
