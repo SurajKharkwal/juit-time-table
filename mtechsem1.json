@@ -32,6 +32,7 @@
     "time": 3,
     "data": [
       "L-14M31CE116 26EE11 (RRA) CR14",
+      "L-MBA7 26MW11 (VDN) TR6",
       "L-20MS1BT115  26MB11  (SDS) CR18",
       "L-TEC901 26MEC11,26IOT11 (PDG) TR9",
       "L- 25M11CE112  26SE11  (TNM) TR8"
@@ -83,7 +84,7 @@
     "data": [
       "L-22M11CI112 26CD11 (HRI) TR1",
       "L-22M1WCI133 26CD11 (PKR) CR01",
-      "L-13M11BT114 26MT11 (JAS) CR07",
+      "L-13M11BT114 26MT11 (JAS) CR11",
       "L-MBA2 26MW11 (TGM) CR14"
     ]
   },
