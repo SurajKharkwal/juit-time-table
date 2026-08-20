@@ -3,6 +3,7 @@
     "day": 0,
     "time": 0,
     "data": [
+      "C",
       "L-TEC903 26MEC11 (ALK) CR14",
       "L-25M1WCE131  26SE11  (TNM) TR8",
       "L-TEC905 26IOT11 (HSL) TR9"
@@ -205,8 +206,7 @@
     "time": 4,
     "data": [
       "P-20MS7BT171 26MB11 (JTV) UG1",
-      "P-TEC902 26IOT11,26MEC11 (VKB) CL10",
-      "P-22M17MA171 26CD11 (RMS) CL52"
+      "P-TEC902 26IOT11,26MEC11 (VKB) CL10"
     ]
   },
   {
@@ -215,7 +215,6 @@
     "data": [
       "P-20MS7BT171 26MB11 (JTV) UG1",
       "P-TEC902 26IOT11,26MEC11 (VKB) CL10",
-      "P-22M17MA171 26CD11 (RMS) CL52",
       "L-18M11BT114 26MT11 (GPL) CR19",
       "L-25M1WCE131  26SE11  (TNM) TR8"
     ]
