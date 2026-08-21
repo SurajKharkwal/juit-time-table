@@ -3,7 +3,6 @@
     "day": 0,
     "time": 0,
     "data": [
-      "C",
       "L-TEC903 26MEC11 (ALK) CR14",
       "L-25M1WCE131  26SE11  (TNM) TR8",
       "L-TEC905 26IOT11 (HSL) TR9"
@@ -285,6 +284,7 @@
     "time": 4,
     "data": [
       "P-TEC906 26IOT11 (NTJ) ECL5,DLAB",
+      "T-26BXXHS1X 26MW11 (ASA) CR18",
       "P-14M37CE171 26EE11 (ASR) ENVLAB"
     ]
   },
@@ -365,7 +365,7 @@
     "data": [
       "L-TEC965 26IOT11 (RKU) CR13",
       "P-25M17CE171  26SE11  (AKG) CONCLAB",
-      "T-26BXXHS1X 26MW11 (ASA) CR18",
+      "L-MBA8 26MW11 (ASA) CR18",
       "P-TEC904 26MEC11 (MSD) ECL4"
     ]
   },
