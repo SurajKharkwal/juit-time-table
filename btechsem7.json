@@ -119,8 +119,8 @@
     "day": 1,
     "time": 5,
     "data": [
-      "L-18B1WCI742   CS-IT[PCC,PAI]E4_B2 (SMA) CR01",
-      "L-18B1WCI742   CS-IT[PCC,PAI]E4_B4 (MSI) CR02",
+      "L-18B1WCI742   CS-IT[PCC,PAI]E4_B2[23A14,23A15,23A16] (SMA) CR01",
+      "L-18B1WCI742   CS-IT[PCC,PAI]E4_B4[23I11,23I12,23J11,23J12,23K11,23C11,23F11] (MSI) CR02",
       "L-14B1WBT739   BIO[23E11,23F11] (UDB) CR16"
     ]
   },
@@ -169,6 +169,7 @@
     "day": 2,
     "time": 2,
     "data": [
+      "P-18B1WCI772   CS-IT[PCC,PAI]E4_23A17 (MSI) CL52",
       "L-18B1WCE771 E6_23D11 (ABJ) CR15"
     ]
   },
@@ -176,6 +177,7 @@
     "day": 2,
     "time": 3,
     "data": [
+      "P-18B1WCI772   CS-IT[PCC,PAI]E4_23A17 (MSI) CL52",
       "L-18B1WCE732 E5_23D11 (RRA) CR14",
       "L-14B1WBT739   BIO[23E11,23F11] (UDB) CR16",
       "L- 25B1WCI741   CSAIDS_PE[23J11,23J12] (DGA) CR07"
@@ -222,7 +224,7 @@
     "day": 3,
     "time": 0,
     "data": [
-      "L-18B1WCI742   CS-IT[PCC,PAI]E4_B1 (DSA) CR07",
+      "L-18B1WCI742   CS-IT[PCC,PAI]E4_B1[23A11,23A12,23A13] (DSA) CR07",
       "L-18B1WPH731  PMSALL_OE_E1 (RRS) CR07"
     ]
   },
@@ -230,7 +232,7 @@
     "day": 3,
     "time": 1,
     "data": [
-      "L-18B1WCI742   CS-IT[PCC,PAI]E4_B1 (DSA) CR01"
+      "L-18B1WCI742   CS-IT[PCC,PAI]E4_B1[23A11,23A12,23A13] (DSA) CR01"
     ]
   },
   {
@@ -248,7 +250,7 @@
     "data": [
       "P-18B1WCI772   CS-IT[PCC,PAI]E4_23A15 (HRI) ALAB1",
       "P-18B1WCI772   CS-IT[PCC,PAI]E4_23A16 (HRI) ALAB2",
-      "L-18B1WCI742   CS-IT[PCC,PAI]E4_B3 (RIV) CR02",
+      "L-18B1WCI742   CS-IT[PCC,PAI]E4_B3[23A17,23A18,23A19] (RIV) CR02",
       "L-22B1WCE731  CEALL_OE_E1 (ABJ) CR04"
     ]
   },
@@ -261,7 +263,7 @@
     "day": 3,
     "time": 5,
     "data": [
-      "L-18B1WCI742   CS-IT[PCC,PAI]E4_B2 (SMA) CR07"
+      "L-18B1WCI742   CS-IT[PCC,PAI]E4_B2[23A14,23A15,23A16] (SMA) CR07"
     ]
   },
   {
@@ -296,7 +298,7 @@
     "day": 4,
     "time": 1,
     "data": [
-      "L-18B1WCI742   CS-IT[PCC,PAI]E4_B3 (RIV) CR04",
+      "L-18B1WCI742   CS-IT[PCC,PAI]E4_B3[23A17,23A18,23A19] (RIV) CR04",
       "L-18B1WBT734 BIO_D4[23E11,23F11] (HSD) TR7"
     ]
   },
@@ -325,7 +327,7 @@
     "day": 4,
     "time": 5,
     "data": [
-      "L-18B1WCI742   CS-IT[PCC,PAI]E4_B4 (MSI) CR08"
+      "L-18B1WCI742   CS-IT[PCC,PAI]E4_B4[23I11,23I12,23J11,23J12,23K11,23C11,23F11] (MSI) CR08"
     ]
   },
   {
